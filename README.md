@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+Before running just install the node modules using  the command ### `npm i` in the terminal
 ### `npm start`
 
 Runs the app in the development mode.\
